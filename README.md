@@ -1,2 +1,2 @@
 # Demo-code
-This is first code on githud
+This is first demo code on githud 
